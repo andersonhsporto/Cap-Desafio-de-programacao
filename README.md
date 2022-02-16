@@ -1,8 +1,9 @@
-# Desafio de programacao (ACADEMIA CAPGEMINI)
+# Desafio de programação (ACADEMIA CAPGEMINI)
 
 # Questão 01
 
-Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
+Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n.
+A última linha não deve conter nenhum espaço.
 
 ## Exemplo:
 
@@ -22,6 +23,7 @@ n = 6
 ```
 
 Para mudar o tamanho da escada, altere a função main do arquivo `q1.c` como no exemplo abaixo:
+<img src="https://github.com/andersonhsporto/Cap-Desafio-de-programacao/blob/main/images/main1.png" width="400" height=auto/>
 
 
 <hr>
@@ -51,8 +53,11 @@ Ya3
 ```
 
 Para mudar a senha, altere a função main do arquivo `q2.c` como no exemplo abaixo:
+<br>
 
+<img src="https://github.com/andersonhsporto/Cap-Desafio-de-programacao/blob/main/images/main2.png" width="400" height=auto/>
 
+<br>
 <hr>
 
 # Questão 03
@@ -74,6 +79,16 @@ ifailuhkqq
 ```
 
 Para mudar a string altere a função main do arquivo `q3.c` como no exemplo abaixo:
-<hr>
+<br>
+<img src="https://github.com/andersonhsporto/Cap-Desafio-de-programacao/blob/main/images/main3.png" width="400" height=auto align="auto"/>
+<br>
+<br>
 
 Para compilar os 3 exercicios utilize o comando `make`
+```
+Para compilar o primeiro exercício utilize o comando: make 1
+Para compilar o segundo exercício utilize o comando:  make 2
+Para compilar o terceiro exercício utilize o comando: make 3
+
+Para limpar os aquivos compilador utilize o comando:  make clean
+```
