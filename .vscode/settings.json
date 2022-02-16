@@ -1,9 +1,0 @@
-{
-	"files.associations": {
-		"vector": "c",
-		"string": "c",
-		"random": "c",
-		"type_traits": "c",
-		"sstream": "c"
-	}
-}
