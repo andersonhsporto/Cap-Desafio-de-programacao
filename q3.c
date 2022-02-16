@@ -66,5 +66,5 @@ int main(void)
 	int counter = counter_anagram(string);
 
 	printf("%d \n", counter);
-	return 0;
+	return (0);
 }

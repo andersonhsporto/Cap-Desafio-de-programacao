@@ -32,8 +32,8 @@ void	questao1(int numero)
 
 int	main(void)
 {
-	int	i = 10;
+	int	tamanho = 10;
 
-	questao1(i);
+	questao1(tamanho);
 	return (0);
 }
