@@ -92,3 +92,5 @@ Para compilar o terceiro exercício utilize o comando: make 3
 
 Para limpar os aquivos compilador utilize o comando:  make clean
 ```
+
+Para executar os binarios compilados: `./questao_X`
