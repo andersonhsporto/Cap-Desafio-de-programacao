@@ -21,3 +21,5 @@ clean:
 	rm -rf questao_1
 	rm -rf questao_2
 	rm -rf questao_3
+
+re:clean all
