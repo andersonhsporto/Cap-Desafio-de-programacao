@@ -32,7 +32,7 @@ void	questao1(int numero)
 
 int	main(void)
 {
-	int	i = 6;
+	int	i = 10;
 
 	questao1(i);
 	return (0);
