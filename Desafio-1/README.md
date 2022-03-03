@@ -107,3 +107,6 @@ Para limpar os aquivos compilador utilize o comando:  make clean
 ```
 
 Para executar os binarios compilados: `./questao_X`
+
+
+
